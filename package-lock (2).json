@@ -1,0 +1,11 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "react-native-maps": {
+      "version": "0.15.3",
+      "resolved": "https://registry.npmjs.org/react-native-maps/-/react-native-maps-0.15.3.tgz",
+      "integrity": "sha1-XZ4KjjDsxR3HVbejuda27V4t0Iw="
+    }
+  }
+}
